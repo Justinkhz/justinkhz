@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Justin  
 
-💻 **Aspiring Penetration Tester** who loves to test systems, build labs, and document what I learn.  
+💻 **Aspiring Penetration Tester** who loves to test systems, build security labs, and document what I learn.  
 🎓 **Certifications:** CompTIA ITF+, A+, N+, Security+ | Studying for eJPTv2  
 
 ---
@@ -22,3 +22,5 @@
 - 📧 **Email:** justinkh0709@gmail.com  
 - 🧩 **Portfolio:** [Notion Portfolio](https://www.notion.so/IT-Portfolio-206b3445281c80ccbabcd6a2c73543c0)
 
+---
+*Thanks for visiting my profile! Feel free to connect or check out my labs above.*
