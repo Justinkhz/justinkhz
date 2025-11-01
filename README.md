@@ -20,4 +20,4 @@
 
 ## 📬 Contact Me
 - 📧 **Email:** justinkh0709@gmail.com  
-- 🧩 **Portfolio:** [Notion Portfolio](<[your notion link](https://www.notion.so/IT-Portfolio-206b3445281c80ccbabcd6a2c73543c0)>)
+- 🧩 **Portfolio:** [Notion Portfolio](<[https://www.notion.so/Network-Engineering-Project-206b3445281c80fd9f90e9d7468bbd15])>)
