@@ -20,4 +20,5 @@
 
 ## 📬 Contact Me
 - 📧 **Email:** justinkh0709@gmail.com  
-- 🧩 **Portfolio:** [Notion Portfolio](<[https://www.notion.so/Network-Engineering-Project-206b3445281c80fd9f90e9d7468bbd15])>)
+- 🧩 **Portfolio:** [Notion Portfolio](https://www.notion.so/Network-Engineering-Project-206b3445281c80fd9f90e9d7468bbd15)
+
