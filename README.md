@@ -13,12 +13,12 @@
 ---
 
 ## 🧠 Featured Projects
-- 🔒 [Offensive Security Home Lab](<[link](https://www.notion.so/Offensive-Security-Home-lab-275b3445281c802b9710d2b6f8e707ea)>)  
-- 🌐 [Network Engineering Home Lab](<[link](https://www.notion.so/Network-Engineering-Project-206b3445281c80fd9f90e9d7468bbd15)>)  
+- 🔒 [Offensive Security Home Lab](https://www.notion.so/Offensive-Security-Home-lab-275b3445281c802b9710d2b6f8e707ea)  
+- 🌐 [Network Engineering Home Lab](https://www.notion.so/Network-Engineering-Project-206b3445281c80fd9f90e9d7468bbd15)  
 
 ---
 
 ## 📬 Contact Me
 - 📧 **Email:** justinkh0709@gmail.com  
-- 🧩 **Portfolio:** [Notion Portfolio](https://www.notion.so/Network-Engineering-Project-206b3445281c80fd9f90e9d7468bbd15)
+- 🧩 **Portfolio:** [Notion Portfolio](https://www.notion.so/IT-Portfolio-206b3445281c80ccbabcd6a2c73543c0)
 
