@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Justin  
 
-<!--
-**Justinkhz/justinkhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Penetration Tester** who loves to test systems, build labs, and document what I learn.  
+🎓 **Certifications:** CompTIA ITF+, A+, N+, Security+ | Studying for eJPTv2  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Currently Doing
+- 🧪 Building hands-on cybersecurity labs for real-world experience  
+- 🐍 Learning Python and Bash scripting for automation and tool development  
+- 🎯 Preparing for the **eJPTv2** exam  
+
+---
+
+## 🧠 Featured Projects
+- 🔒 [Offensive Security Home Lab](<link>)  
+- 🌐 [Network Engineering Home Lab](<link>)  
+
+---
+
+## 📬 Contact Me
+- 📧 **Email:** justinkh0709@gmail.com  
+- 🧩 **Portfolio:** [Notion Portfolio](<your notion link>)
