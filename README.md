@@ -10,11 +10,6 @@
 - 🐍 Learning Python and Bash scripting for automation and tool development  
 - 🎯 Preparing for the **eJPTv2** exam  
 
----
-
-## 🧠 Featured Projects
-- 🔒 [Offensive Security Home Lab](https://www.notion.so/Offensive-Security-Home-lab-275b3445281c802b9710d2b6f8e707ea)  
-- 🌐 [Network Engineering Home Lab](https://www.notion.so/Network-Engineering-Project-206b3445281c80fd9f90e9d7468bbd15)  
 
 ---
 
