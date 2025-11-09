@@ -20,4 +20,4 @@
 
 
 ---
-*Thanks for visiting my profile! Feel free to connect or check out my labs above.*
+*Thanks for visiting my profile! Feel free to connect or check out my portfolio above.*
