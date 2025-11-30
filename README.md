@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Justin  
 
 💻 **Aspiring Penetration Tester** who loves to test systems, build security labs, and document what I learn.  
-🎓 **Certifications:** CompTIA ITF+, A+, N+, Security+, eJPT
+🎓 **Certifications:** CompTIA ITF+, A+, N+, Security+, eLearnSecurity’s eJPT
 
 ---
 
