@@ -8,7 +8,7 @@
 ## 🔧 What I'm Currently Doing
 - 🧪 Building hands-on cybersecurity labs for real-world experience  
 - 🐍 Learning Python and Bash scripting for automation and tool development  
-- 🎯 Preparing for the **eJPTv2** exam  
+ 
 
 
 ---
