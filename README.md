@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Justin  
 
 💻 **Aspiring Penetration Tester** who loves to test systems, build security labs, and document what I learn.  
-🎓 **Certifications:** CompTIA ITF+, A+, N+, Security+, eLearnSecurity’s eJPT
+🎓 **Certifications:** CompTIA ITF+, A+, N+, Security+, eLearnSecurity eJPT
 
 ---
 
 ## 🔧 What I'm Currently Doing
 - 🧪 Building hands-on cybersecurity labs for real-world experience  
 - 🐍 Learning Python and Bash scripting for automation and tool development
-- 🐞 Preparing for real-world bug bounty hunting by mastering web application vulnerabilities and exploitation techniques.
+- 🐞 Studying web vulnerabilities and exploitation techniques to prepare for real-world bug bounty hunting.
 - 🎓 Progressing through the CPTS certification to build broad, practical skills in ethical hacking and penetration testing.
  
 
