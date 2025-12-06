@@ -7,7 +7,9 @@
 
 ## 🔧 What I'm Currently Doing
 - 🧪 Building hands-on cybersecurity labs for real-world experience  
-- 🐍 Learning Python and Bash scripting for automation and tool development  
+- 🐍 Learning Python and Bash scripting for automation and tool development
+- 🐞 Preparing for real-world bug bounty hunting by mastering web application vulnerabilities and exploitation techniques.
+- 🎓 Progressing through the CPTS certification to build broad, practical skills in ethical hacking and penetration testing.
  
 
 
