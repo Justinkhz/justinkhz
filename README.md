@@ -8,7 +8,7 @@
 ## 🔧 What I'm Currently Doing
 - 🧪 Building hands-on cybersecurity labs for real-world experience  
 - 🐍 Learning Python and Bash scripting for automation and tool development
-- 🐞 Actively doing bug bounty work on HackerOne VDPs and building solid recon/reporting skills
+- 🐞 Actively doing bug bounty work on HackerOne VDPs, focusing on recon, web app testing, and building up my reporting workflow.
 - 🎓 Progressing through the CPTS certification to build broad, practical skills in ethical hacking and penetration testing.
  
 
