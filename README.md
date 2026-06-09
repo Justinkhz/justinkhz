@@ -9,8 +9,9 @@ Penetration tester in training with a focus on hands-on lab work and practical s
 ## What I'm Working On
 
 - Building and documenting cybersecurity labs for real-world attack and defense experience
+- Building an Active Directory home lab to develop hands-on experience with Windows domains, DNS, Group Policy, and AD security
+- Applying CPTS concepts through Hack The Box labs, Active Directory environments, and real-world attack simulations
 - Developing Python and Bash scripts for automation and tool development
-- Pursuing the HTB CPTS certification to deepen practical penetration testing skills
 
 ---
 
