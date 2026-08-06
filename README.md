@@ -1,17 +1,16 @@
 # Hi, I'm Justin
 
-Penetration tester in training with a focus on hands-on lab work and practical skill building.
+Building hands-on IT and security experience across Active Directory infrastructure, offensive security, and detection engineering.
 
-**Certifications:** CompTIA ITF+, A+, N+, Security+, eLearnSecurity eJPT
+**Certifications:** CompTIA ITF+, A+, N+, Security+, eLearnSecurity eJPTv2
 
 ---
 
 ## What I'm Working On
-
-- Building and documenting cybersecurity labs for real-world attack and defense experience
-- Building an Active Directory home lab to develop hands-on experience with Windows domains, DNS, Group Policy, and AD security
-- Applying CPTS concepts through Hack The Box labs, Active Directory environments, and real-world attack simulations
-- Developing Python and Bash scripts for automation and tool development
+- Active Directory home lab — Windows domains, DNS, Group Policy, and AD attack/defense scenarios
+- Detection engineering lab — Wazuh SIEM, custom detections, and monitoring across Windows/Linux endpoints
+- Ubuntu Server intranet deployment — Nginx, Node.js, HTTPS, and Linux server hardening
+- Studying toward CPTS through Hack The Box and real-world AD attack simulations
 
 ---
 
